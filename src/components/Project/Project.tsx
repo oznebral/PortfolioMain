@@ -50,7 +50,7 @@ export function Project() {
             <header>
               <div className="project-links">
                 <a
-                  href="https://github.com/oznebral"
+                  href="https://github.com/oznebral/PortfolioMain"
                   target="_blank"
                   rel="noreferrer"
                 >
