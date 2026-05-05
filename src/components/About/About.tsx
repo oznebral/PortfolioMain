@@ -21,11 +21,11 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-            Hi there! I'm Ebral, I started my career as a front-end developer in
-            2020 and gained in-depth experience in PHP and JavaScript languages
-            with frameworks such as Laravel and Vue.js. I specialized in
-            developing modern and user-friendly interfaces with tools such as
-            Bootstrap, jQuery and Lodash.
+            Hi there! I'm Ebral, a Senior Frontend Developer with over 6 years
+            of professional experience. I began my career in 2020 building web
+            applications with PHP, Laravel and Vue.js, and have since expanded
+            my expertise to modern frontend technologies including React,
+            TypeScript, Next.js and Node.js.
           </p>
         </ScrollAnimation>
         <ScrollAnimation
@@ -34,19 +34,20 @@ export function About() {
           style={{ marginTop: "2rem", marginBottom: "2rem" }}
         >
           <p>
-            Thanks to my mastery of responsive design principles, I design web
-            applications that are mobile-friendly and provide effective user
-            experience. I focus on creating customer- oriented solutions,
-            closely follow the innovations in the world of technology and
-            implement them in my projects.
+            I specialize in crafting high-performance, responsive and
+            pixel-perfect user interfaces that deliver exceptional user
+            experiences across all devices. With a deep understanding of modern
+            frontend architectures, state management, and component-driven
+            development, I build scalable applications that meet the highest
+            industry standards.
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000}>
           <p>
-            With my problem-solving skills and analytical thinking ability, I am
-            successful in solving complex problems. As a good team player, I
-            focus on cooperation and common goals and aim to maximize my
-            contributions in projects.
+            As a senior-level professional, I bring strong problem-solving
+            skills, architectural thinking and mentorship capabilities to every
+            team I work with. I am passionate about clean code, performance
+            optimization and staying at the cutting edge of frontend innovation.
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000}>

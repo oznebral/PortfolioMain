@@ -84,23 +84,37 @@ export function Project() {
             <header>
               <div className="project-links">
                 <a
-                  href="https://github.com/oznebral"
-                  target="\_blank"
+                  href="https://github.com/oznebral/Budgetly-App"
+                  target="_blank"
                   rel="noreferrer"
                 >
                   <img src={githubIcon} alt="Visit site" />
                 </a>
-                <a href="javascript;;" target="\_blank" rel="noreferrer">
+                <a
+                  href="https://github.com/oznebral/Budgetly-App"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>Booking System - Material UI </h3>
-              <p>Waiting...</p>
+              <h3>Budgetly App</h3>
+              <p>
+                A personal finance and budget management application built with
+                React &amp; TypeScript. Features include a Dashboard overview,
+                Transactions tracking, Budget planning, and Analytics with
+                interactive charts powered by Recharts.
+              </p>
             </div>
             <footer>
-              <ul className="tech-list"></ul>
+              <ul className="tech-list">
+                <li>React</li>
+                <li>TypeScript</li>
+                <li>TailwindCSS</li>
+                <li>Recharts</li>
+              </ul>
             </footer>
           </div>
         </ScrollAnimation>
